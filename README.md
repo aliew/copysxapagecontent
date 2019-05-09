@@ -1,5 +1,5 @@
 # copysxapagecontent
-This is a custom experience editor ribbon button command to copy a page's final layout definition which includes all of its page property fields and its defined list of components (composite components such as carousels, accordions and tabs) and its datasources from target source English to other configured languages.
+This is a custom experience editor ribbon button command to copy a page's final layout definition which includes all of its page property fields and its defined list of components (composite components such as carousels, accordions and tabs) and its datasources from the default language that is English to other configured languages within your Sitecore system.
 
 The current module is compatible with Sitecore 9.0 Update 1 and Sitecore Experience Accelerator (SXA) 1.7 at the time of creation.
 
